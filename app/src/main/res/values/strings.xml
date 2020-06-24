@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AAD1</string>
+    <string name="start">Welcome</string>
+
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="Eg1">Eg: John123</string>
+    <string name="Eg2">Enter your password here</string>
+    <string name="button1">Submit</string>
+
+</resources>
